@@ -105,7 +105,7 @@
 // };
 // === AWS API BASE URL ===
 const API_BASE =
-  "https://o4ylf5nkxl.execute-api.us-east-1.amazonaws.com/prod";
+  "http://98.92.252.172:8000";
 
 // === UNIVERSAL REQUEST HANDLER WITH FULL DEBUG ===
 async function request(path, options = {}) {
