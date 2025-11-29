@@ -105,7 +105,7 @@
 // };
 // === AWS API BASE URL ===
 const API_BASE =
-  "http://98.92.252.172:8000";
+  "http://54.205.8.2:8000";
 
 // === UNIVERSAL REQUEST HANDLER WITH FULL DEBUG ===
 async function request(path, options = {}) {

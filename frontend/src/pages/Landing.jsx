@@ -241,7 +241,7 @@ function Landing({ onAuthSuccess }) {
             analytics.
           </p>
           <ul className="landing-list">
-            <li>✅ Modern AWS-style dashboard</li>
+            <li>✅ Modern-style dashboard</li>
             <li>✅ Green agricultural & forestry theme</li>
             <li>✅ Full CRUD with authenticated access</li>
             <li>✅ Smart irrigation & fire-risk insights</li>
